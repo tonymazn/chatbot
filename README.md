@@ -1,11 +1,12 @@
 
 
-# Llama2 APAS Chatbot
+# APAS Chatbot (by Llama2)
 
-The Llama2 APAS Bot is a powerful tool designed to provide APAS information by answering user queries using state-of-the-art language models and vector stores. This README will guide you through the setup and usage of the Llama2 APAS Chatbot.
+The Llama2 APAS Chatbot is a powerful tool designed to provide APAS information by answering user queries using state-of-the-art language models and vector stores. This README will guide you through the setup and usage of the Llama2 APAS Chatbot.
 
+Please download the Llama 2 Quantized model by Bloke in huggingface.
 
-Happy coding with Llama2 APAS Bot! 
+Happy coding with APAS ChatBot! 
 
 
 Credit:
