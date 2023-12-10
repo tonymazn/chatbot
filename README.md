@@ -19,7 +19,7 @@ run the ingest.py by Python
 
 Run the Chatbot
 -
-chainlit run Model.py -w
+chainlit run model.py -w
 
 
 Credit:
