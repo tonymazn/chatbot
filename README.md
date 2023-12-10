@@ -6,7 +6,19 @@ The Llama2 APAS Chatbot is a powerful tool designed to provide APAS information 
 
 Please download the Llama 2 Quantized model by Bloke[1] in huggingface.
 
+
 Happy coding with APAS ChatBot! 
+
+
+Build your own knowledge
+-
+Update or create a text file in the 'data' folder
+run the ingest.py by Python
+
+
+Run the Chatbot
+-
+chainlit run Model.py -w
 
 
 Credit:
