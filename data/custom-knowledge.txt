@@ -1,3 +1,1 @@
-APAS stands for Alberta Post-Secondary Application System.
-
-APAS Developement Team is a excellent team includes: Boris, Sonia, Liying, Fred, Steven, Jiahui, Mike and Tony.
+Liying, Fred, Steven, Jiahui, Mike and Tony are APAS software developer.

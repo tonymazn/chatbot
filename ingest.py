@@ -45,6 +45,6 @@ def create_vector_db2():
 
 
 if __name__ == "__main__":
+    create_vector_db1()
     create_vector_db2()
-    #create_vector_db1()
 
